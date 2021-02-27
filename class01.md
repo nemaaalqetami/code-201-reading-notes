@@ -132,6 +132,92 @@ when you desiging a wireframe tring to avoid
 
  Finally, make sure that your website has a simple user interface, easy to use and this is what the user needs .
 
+## javascript 
+
+#### Introduction :
+
+we explains how JavaScript can be used,in browsers to make websites more interactive, interesting, and user-friendly. Learning to program with JavaScript involves:
+- basic programming concepts
+- Learning the language itself
+- Becoming familiar with how it is applied 
+
+how javascript makes web pages more interactive:
+
+1- ACCESS CONTENT
+
+2- MODIFY CONTENT
+
+3- PROGRAM RULES
+
+4- REACT TO EVENTS
+
+EXAMPLES OF JAVASCRIPT IN THE BROWSER
+1- SLIDESHOWS
+
+2- FORMS
+
+3- RELOAD PART OF PAGE
+
+4- FILTERING DATA
+
+#### Secript :
+
+What is ascript and how do i create one ?
+
+A SCRIPT IS A SERIES OF INSTRUCTIONS
+
+A script is a series of instructions that a computer can follow to achieve a goal.
+
+You could compare scripts to any of the following
+
+1- RECIPES
+
+2- HANDBOOKS
+
+3- MANUALS
+
+Writing  A Script :
+
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
+Designing a Secript Tasks :
+you can work out the individual tasks needed to achieve it.
+
+EVENTS :
+WHAT IS AN EVENT? 
+
+events are "things" that happen to HTML elements.When JavaScript is used in HTML pages, JavaScript can `react` on these events.
+
+WHAT DOES AN EVENT DO?
+
+Programmers choose which events they respond to.When a specific event happens, that event can be used to trigger a specific section of the code.Scripts often use different events to trigger different types of functionality .
+How a Browser sees a Web Page ?
+1-  Receive a Page as Html Code
+2- creating a model of the page and store it in memory.
+3- use a rendering engine to show the page on screen.
+
+How Html ,Css and JavaScript work Together?
+
+HTML, CSS and JavaScript work together to form the front-end design of a website by applying information that affects content, style and interactivity of a site.
+
+
+How to use `Object and Methods` ?
+this ome line of javaScript shows how to use object and methods programming refer to this as calling a method of an oblect.
+Ex :
+document.write("")
+the document object represents the entire web page.
+the wrire() method or`Function` of the document object allows new content to be weitten into the page.
+and we can add html element in this method
+
+
+
+
+
+
+
+
+
+
+
 
 
 
