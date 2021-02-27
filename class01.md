@@ -39,7 +39,10 @@ insid body tag we write all elements of html.`
 
 Extra Markup :
 
- ### DOCTYPE 
+ ###  DOCTYPE 
+ 
+ 
+ 
 `stands for Document Type Declaration`
 Tell the browser what version of html we use , and must be begin with it
 for html5 ,we use it `!DOCTYPE html` but it's not considered an element or html tag and every version of html has own DOCTYPE
@@ -57,7 +60,10 @@ for html5 ,we use it `!DOCTYPE html` but it's not considered an element or html 
 id attribute must Unique for styling just `one element in html` and should be starting `# ` sign and the name of id then call it in youe element ` <p id="the name of class">` like that .
  
 
- ### CLASS Attribute :
+ ###    CLASS Attribute :
+ 
+ 
+ 
  class attribute it used for styling multiple elements  and should be starting `. ` sign and the name of class ,then call it in youe element ` <p class ="the name of class">`
 
 
@@ -77,7 +83,9 @@ id attribute must Unique for styling just `one element in html` and should be st
  ASCII characters 
  
  
- # HTML5 Layout :
+ #   HTML5 Layout :
+ 
+ 
 
 In this chapter we gonna tolk about `HTML SEMANTIC ELEMENTS`
 
@@ -90,7 +98,7 @@ In this chapter we gonna tolk about `HTML SEMANTIC ELEMENTS`
 
 * The `<article>` element specifies independent, self-contained content.
 * The `<aside>` element defines some content aside from the content it is placed in (like a sidebar).
- * `<details>` tag Defines additional details that the user can view or hide
+* The  `<details>` tag Defines additional details that the user can view or hide
 * The `<header>` element represents a container for introductory content or a set of navigational links.
 * The `<footer>` element defines a footer for a document or section.
 * The `<nav>` element defines a set of navigation links.
@@ -98,12 +106,12 @@ In this chapter we gonna tolk about `HTML SEMANTIC ELEMENTS`
 * The `<figcaption>` tag defines a caption for a figure element. The figcaption element can be placed as the first or as the last child of a figure element.
 * The `<main>` tag Specifies the main content of a document
 * The `<mark>` tag Defines marked/highlighted text
- * `<section>` tag 	Defines a section in a document
-* `<summary>` tag Defines a visible heading for a details element
-* `<time>` tag Defines a date/time
+ * The  `<section>` tag 	Defines a section in a document
+* The `<summary>` tag Defines a visible heading for a details element
+* The `<time>` tag Defines a date/time
 
 
- # Process & Design :
+ #   Process & Design :
  
  `SITE MAP`
 
@@ -116,7 +124,9 @@ and other files on your site
 * if your page are not linked to each other you can list them in a       sitemap
 * if your pages has large number of media content 
 
- ### you not need a sitemap :
+ ###  you not need a sitemap :
+ 
+ 
  * if your site is small
  * if you dont have a lot of media in your site
 
