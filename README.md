@@ -11,7 +11,7 @@
 
 | **File Name**  | **Link** |
 | ----------- | ----------- |
-|Introductory HTML and JavaScript | [Introductory HTML and JavaScript](https://nemaaalqetami.github.io/code-201-reading-notes/introduction_html_javascript) |
+|Introductory HTML and JavaScript | [Introductory HTML and JavaScript]https://nemaaalqetami.github.io/code-201-reading-notes/class01) |
 || |
 | | |
 | | |
