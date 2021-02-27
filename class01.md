@@ -39,7 +39,7 @@ insid body tag we write all elements of html.`
 
 Extra Markup :
 
- ###  DOCTYPE 
+###  DOCTYPE 
  
  
  
@@ -60,7 +60,7 @@ for html5 ,we use it `!DOCTYPE html` but it's not considered an element or html 
 id attribute must Unique for styling just `one element in html` and should be starting `# ` sign and the name of id then call it in youe element ` <p id="the name of class">` like that .
  
 
- ###    CLASS Attribute :
+###    CLASS Attribute :
  
  
  
@@ -83,7 +83,7 @@ id attribute must Unique for styling just `one element in html` and should be st
  ASCII characters 
  
  
- #   HTML5 Layout :
+#   HTML5 Layout :
  
  
 
@@ -111,7 +111,7 @@ In this chapter we gonna tolk about `HTML SEMANTIC ELEMENTS`
 * The `<time>` tag Defines a date/time
 
 
- #   Process & Design :
+#   Process & Design :
  
  `SITE MAP`
 
@@ -124,7 +124,7 @@ and other files on your site
 * if your page are not linked to each other you can list them in a       sitemap
 * if your pages has large number of media content 
 
- ###  you not need a sitemap :
+###  you not need a sitemap :
  
  
  * if your site is small
