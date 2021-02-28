@@ -11,11 +11,23 @@ we will talk about :
 
 
 
+
+
 ## Structure markup :
 
 
 
+
+
+
+
+
  ### Heading :
+
+
+
+
+
 
 
  HTML has six `level` of headings 
@@ -24,8 +36,17 @@ we will talk about :
  `h3` is used for subheadings
 
 
+
+
+
+
+
   ### pragraphs :
    browser will show each pragraphs on a new line with some space between it .
+
+
+
+
 
 
    `<p> yout content </p>` this tag used for pragraphs.
@@ -46,19 +67,19 @@ if you want to makes divider between the lines you should use `<hr>` tag
 ## Semantic markup :
 
 
-- The <article> element specifies independent, self-contained content.
-- The <aside> element defines some content aside from the content it is placed in (like a sidebar).
-- <details> tag Defines additional details that the user can view or hide
-- The <header> element represents a container for introductory content or a set of navigational links.
-- The <footer> element defines a footer for a document or section.
-- The <nav> element defines a set of navigation links.
-- The <figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings
-- The <figcaption> tag defines a caption for a figure element. The figcaption element can be placed as the first or as the last child of a figure element.
-- The <main> tag Specifies the main content of a document
-- The <mark> tag Defines marked/highlighted text
-- The <section> tag Defines a section in a document
-- The <summary> tag Defines a visible heading for a details element
-- The <time> tag Defines a date/time
+- The `<article>` element specifies independent, self-contained content.
+- The `<aside>` element defines some content aside from the content it is placed in (like a sidebar).
+- The  `<details>` tag Defines additional details that the user can view or hide
+- The `<header>` element represents a container for introductory content or a set of navigational links.
+- The `<footer>` element defines a footer for a document or section.
+- The `<nav>` element defines a set of navigation links.
+- The  `<figure>` tag specifies self-contained content, like illustrations, diagrams, photos, code listings
+- The `<figcaption>` tag defines a caption for a figure element. The figcaption element can be placed as the first or as the last child of a figure element.
+- The `<main>` tag Specifies the main content of a document
+-  The `<mark>` tag Defines marked/highlighted text
+- The `<section>` tag Defines a section in a document
+- The `<summary>` tag Defines a visible heading for a details element
+- The  `<time>` tag Defines a date/time
 
 
 
