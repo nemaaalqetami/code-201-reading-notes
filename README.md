@@ -25,7 +25,7 @@
 | **File Name**  | **Link** |
 | ----------- | ----------- |
 |Introductory HTML and JavaScript | [Introductory HTML and JavaScript](https://nemaaalqetami.github.io/code-201-reading-notes/class01) |
-|| |
+|Html Text, Css introduction , and basic javaScript| [Html Text, Css introduction , and basic javaScript](https://nemaaalqetami.github.io/code-201-reading-notes/class-02)|
 | | |
 | | |
 | | |
