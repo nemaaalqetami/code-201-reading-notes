@@ -27,7 +27,7 @@
 |Introductory HTML and JavaScript | [Introductory HTML and JavaScript](https://nemaaalqetami.github.io/code-201-reading-notes/class01) |
 |Html Text, Css introduction , and basic javaScript| [Html Text, Css introduction , and basic javaScript](https://nemaaalqetami.github.io/code-201-reading-notes/class-02)|
 | HTML Lists, CSS Boxes, JS Control Flow| [HTML Lists, CSS Boxes, JS Control Flow](https://nemaaalqetami.github.io/code-201-reading-notes/class-03)|
-| | |
+|HTML Links, JS Functions, and Intro to CSS Layout |[HTML Links, JS Functions, and Intro to CSS Layout](https://nemaaalqetami.github.io/code-201-reading-notes/class-04) |
 | | |
 || |
 
