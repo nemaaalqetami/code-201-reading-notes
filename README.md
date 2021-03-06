@@ -29,5 +29,5 @@
 | HTML Lists, CSS Boxes, JS Control Flow| [HTML Lists, CSS Boxes, JS Control Flow](https://nemaaalqetami.github.io/code-201-reading-notes/class-03)|
 |HTML Links, JS Functions, and Intro to CSS Layout |[HTML Links, JS Functions, and Intro to CSS Layout](https://nemaaalqetami.github.io/code-201-reading-notes/class-04) |
 |Images, Color, Text | [Images, Color, Text](https://nemaaalqetami.github.io/code-201-reading-notes/class-05)|
-|Problem Domain, Objects, and the DOM|[Problem Domain, Objects, and the DOM]() |
+|Problem Domain, Objects, and the DOM|[Problem Domain, Objects, and the DOM](https://nemaaalqetami.github.io/code-201-reading-notes/class-06) |
 
