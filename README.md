@@ -30,5 +30,5 @@
 |HTML Links, JS Functions, and Intro to CSS Layout |[HTML Links, JS Functions, and Intro to CSS Layout](https://nemaaalqetami.github.io/code-201-reading-notes/class-04) |
 |Images, Color, Text | [Images, Color, Text](https://nemaaalqetami.github.io/code-201-reading-notes/class-05)|
 |Problem Domain, Objects, and the DOM|[Problem Domain, Objects, and the DOM](https://nemaaalqetami.github.io/code-201-reading-notes/class-06) |
-|HTML Tables; JS Constructor Functions|[HTML Tables; JS Constructor Functions]()|
+|HTML Tables; JS Constructor Functions|[HTML Tables; JS Constructor Functions](https://nemaaalqetami.github.io/code-201-reading-notes/class-07)|
 
