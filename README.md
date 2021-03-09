@@ -32,4 +32,6 @@
 |Problem Domain, Objects, and the DOM|[Problem Domain, Objects, and the DOM](https://nemaaalqetami.github.io/code-201-reading-notes/class-06) |
 |HTML Tables; JS Constructor Functions|[HTML Tables; JS Constructor Functions](https://nemaaalqetami.github.io/code-201-reading-notes/class-07)|
 |CSS Layout|[CSS Layout](https://nemaaalqetami.github.io/code-201-reading-notes/class-08)|
+|Forms and JS Events|[Forms and JS Events](https://nemaaalqetami.github.io/code-201-reading-notes/class-09)|
+
 
