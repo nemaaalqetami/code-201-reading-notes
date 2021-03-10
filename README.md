@@ -33,5 +33,11 @@
 |HTML Tables; JS Constructor Functions|[HTML Tables; JS Constructor Functions](https://nemaaalqetami.github.io/code-201-reading-notes/class-07)|
 |CSS Layout|[CSS Layout](https://nemaaalqetami.github.io/code-201-reading-notes/class-08)|
 |Forms and JS Events|[Forms and JS Events](https://nemaaalqetami.github.io/code-201-reading-notes/class-09)|
+|Debugging|[Debugging](https://nemaaalqetami.github.io/code-201-reading-notes/class-10)|
+
+
+
+
+
 
 
