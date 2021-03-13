@@ -40,6 +40,6 @@
 
 
 
-Audio, Video, Images
+
 
 
