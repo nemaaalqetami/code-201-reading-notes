@@ -36,7 +36,7 @@
 |Debugging|[Debugging](https://nemaaalqetami.github.io/code-201-reading-notes/class-10)|
 |Audio, Video, Image|[Audio, Video, Image](https://nemaaalqetami.github.io/code-201-reading-notes/class-11)|
 |Chart.js, Canvas|[Chart.js, Canvas](https://nemaaalqetami.github.io/code-201-reading-notes/class-12)|
-|git push origin main|[git push origin main](https://nemaaalqetami.github.io/code-201-reading-notes/class-13)|
+| Local Storage|[Local Storage](https://nemaaalqetami.github.io/code-201-reading-notes/class-13)|
 
 
 
