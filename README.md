@@ -37,7 +37,7 @@
 |Audio, Video, Image|[Audio, Video, Image](https://nemaaalqetami.github.io/code-201-reading-notes/class-11)|
 |Chart.js, Canvas|[Chart.js, Canvas](https://nemaaalqetami.github.io/code-201-reading-notes/class-12)|
 | Local Storage|[Local Storage](https://nemaaalqetami.github.io/code-201-reading-notes/class-13)|
-|What Google Learned About Teams |[What Google Learned About Teams](https://nemaaalqetami.github.io/code-201-reading-notes/class-14)|
+|What Google Learned About Teams |[What Google Learned About Teams](https://nemaaalqetami.github.io/code-201-reading-notes/clsaa-14)|
 | CSS Transforms, Transitions, and Animations |[ CSS Transforms, Transitions, and Animations](https://nemaaalqetami.github.io/code-201-reading-notes/class-15)|
 
 
